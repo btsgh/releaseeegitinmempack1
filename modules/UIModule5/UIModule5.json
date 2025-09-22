@@ -1,0 +1,47 @@
+{
+  "gitSyncId": "68cd4306babaa36dc3a7e514_fa9696bb-6c67-4b2b-8d5a-2c3e26355240",
+  "moduleUUID": "f7fbd0ae-2668-4d96-95bb-a437ce1a48a4",
+  "type": "UI_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "gelmeryloy",
+        "sectionName": ""
+      }
+    ],
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 607,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "dynamicTriggerPathList": [],
+          "leftColumn": 0,
+          "minHeight": 607,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 1242,
+          "snapColumns": 64,
+          "snapRows": 124,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 94,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "UIModule5",
+    "outputsForm": [
+      {
+        "children": [],
+        "id": "legqdcyaum",
+        "sectionName": ""
+      }
+    ]
+  }
+}
