@@ -1,12 +1,13 @@
 {
-  "gitSyncId": "68cd4306babaa36dc3a7e514_fa9696bb-6c67-4b2b-8d5a-2c3e26355240",
-  "moduleUUID": "f7fbd0ae-2668-4d96-95bb-a437ce1a48a4",
+
+
   "type": "UI_MODULE",
   "unpublishedModule": {
     "inputsForm": [
       {
         "children": [],
-        "id": "gelmeryloy",
+
+
         "sectionName": ""
       }
     ],
@@ -39,7 +40,8 @@
     "outputsForm": [
       {
         "children": [],
-        "id": "legqdcyaum",
+
+
         "sectionName": ""
       }
     ]
